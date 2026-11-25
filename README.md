@@ -1,4 +1,4 @@
-# Langkah ASN — Latihan SKD CPNS 2026
+# Pejuang ASN — Latihan SKD CPNS 2026
 
 Aplikasi latihan SKD CPNS (TWK, TIU, TKP, SKB) sesuai kisi-kisi SKD 2026 dari JDIH KemenPANRB.
 
